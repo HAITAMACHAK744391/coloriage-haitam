@@ -1,0 +1,1 @@
+{\n  "name": "coloriage-haitam",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    "next": "^13.0.0",\n    "mongodb": "^5.0.0",\n    "stripe": "^8.0.0",\n    "i18next": "^21.0.0",\n    "react-i18next": "^11.0.0"\n  },\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  }\n}
